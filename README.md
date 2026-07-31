@@ -10,6 +10,16 @@ blog-assets/
 │   ├── background/   # 大图背景、信件图
 │   ├── decor/        # 装饰与小图
 │   └── site/         # 站点级文件
+├── font-awesome/     # 通用图标字体库
+│   ├── css/          # font-awesome.min.css
+│   └── fonts/        # 图标字体文件
+├── live2d/           # 看板娘（Live2D）专属资源
+│   ├── waifu.css
+│   ├── waifu-tips.js
+│   ├── live2d.min.js
+│   ├── live2dcubismcore.min.js
+│   ├── chunk/        # autoload 拆分包
+│   └── model/        # 模型文件
 └── README.md
 ```
 
